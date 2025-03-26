@@ -15,12 +15,6 @@ Welcome to my GitHub! I'm Kate!
 - **MySQL Backup Tool**: [Project Link](https://github.com/SlothLady/MySQL-Backup-Tool)  
   An elegant script with slack integration for keeping a optional local rolling backup and complete remote backup of a MySQL/MariaDB database or multiple databases to one or many different servers automatically.
 
-- **Card Lair**: [cardlair.co.uk](https://cardlair.co.uk)  
-  The website for my trading card retail business Card Lair
-
-- **Transgender Café**: [transgender.cafe](https://transgender.cafe)  
-  A website for generating legally valid deed polls just by filling in a form.
-
 ---
 
 ## 📈 GitHub Stats  
